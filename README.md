@@ -24,18 +24,12 @@ These files are typically extracted from Chrome's SQLite databases using tools l
 📦 Installation
 Install the required dependencies using pip:
 
-bash
-Copy
-Edit
 pip install pandas reportlab
 🚀 How to Run
 Place History.csv, Cookies.csv, and Downloads.csv in the same folder as forensic_report.py.
 
 Execute the script using:
 
-bash
-Copy
-Edit
 python forensic_report.py
 The report will be saved as forensic_report.pdf in the current directory.
 
